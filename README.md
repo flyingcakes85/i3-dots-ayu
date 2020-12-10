@@ -29,5 +29,8 @@ Editing while playing a YouTube video in floating player.
   * I use EndeavourOS. Its great. Try it out someday.
   * Ayu Theme for various apps (VSCode, Sublime Text, vim etc.) can be found [here](https://github.com/ayu-theme)
 
+## Pending
+I need to rewite my Polybar config. Fonts definition are a mess. It works, but a rewrite will make it easier to modify later on.
+
 ## Credits
 Will be added.
